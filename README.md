@@ -1,5 +1,4 @@
-# Sample-code
-Código de ejemplo Pablo Largo Rubio
+# Código de ejemplo Pablo Largo Rubio
 
 Un fichero es código en el lenguaje de programación funcional Racket (derivado de Lisp) en el que está programado un juego en el que se genera una mazmorra aleatoria con paredes (#) y se debe encontrar el camino óptimo. Para ello se utiliza el algoritmo A* y hay tests desarrollados para cada una de las funciones.
 
